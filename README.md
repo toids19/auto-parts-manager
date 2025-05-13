@@ -94,17 +94,6 @@ Run the project with:
 ```sh
 mvn exec:java
 ```
-
-### Testing
-
-Auto-parts-manager uses the {__test_framework__} test framework. Run the test suite with:
-
-**Using [maven](https://maven.apache.org/):**
-
-```sh
-mvn test
-```
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
